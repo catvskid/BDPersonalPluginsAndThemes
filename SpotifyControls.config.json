@@ -1,0 +1,39 @@
+{
+	"buttonConfigs": {
+		"next": {
+			"small": true,
+			"big": false
+		},
+		"pauseplay": {
+			"small": true,
+			"big": false
+		},
+		"previous": {
+			"small": false,
+			"big": false
+		},
+		"repeat": {
+			"small": false,
+			"big": false
+		},
+		"share": {
+			"small": false,
+			"big": false
+		},
+		"shuffle": {
+			"small": false,
+			"big": false
+		},
+		"volume": {
+			"small": true,
+			"big": true
+		}
+	},
+	"playerState": {
+		"maximized": false
+	},
+	"settings": {
+		"addTimeline": true,
+		"doubleBack": true
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"blacklist": [
+		"795402948670128150"
+	],
+	"settings": {
+		"addClearButton": true,
+		"confirmClear": false,
+		"includeDMs": false,
+		"includeGuilds": true,
+		"includeMuted": false
+	}
+}

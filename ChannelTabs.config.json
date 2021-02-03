@@ -1,0 +1,24 @@
+{
+    "didShowIssueHelperPopup": true,
+    "currentVersionInfo": {
+        "version": "2.3.6",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "tabs": [
+            {
+                "name": "#🔊 ✦ Mini Sala #8",
+                "url": "/channels/690725353668214847/775855564039127052",
+                "selected": true,
+                "iconUrl": "https://cdn.discordapp.com/icons/690725353668214847/a_bdac01468c9567f4bc05329475b39904.webp?size=128",
+                "channelId": "775855564039127052"
+            }
+        ],
+        "favs": [],
+        "showTabBar": true,
+        "showFavBar": true,
+        "reopenLastChannel": false,
+        "showTabUnreadBadges": true,
+        "showFavUnreadBadges": true
+    }
+}

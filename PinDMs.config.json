@@ -1,0 +1,33 @@
+{
+	"dmCategories": {
+		"3281190346085896": {
+			"collapsed": false,
+			"color": [
+				225,
+				225,
+				225,
+				1
+			],
+			"dms": [
+				"796284828038332456",
+				"789297734737461268",
+				"795887326399692821"
+			],
+			"id": "3281190346085896",
+			"name": ".",
+			"pos": 0
+		}
+	},
+	"preCategories": {
+		"blocked": false,
+		"friends": false,
+		"groups": false
+	},
+	"settings": {
+		"showCategoryAmount": true,
+		"showCategoryUnread": true,
+		"showPinIcon": true,
+		"sortInRecentOrder": false,
+		"sortInRecentOrderGuild": false
+	}
+}
